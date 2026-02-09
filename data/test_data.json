@@ -1,0 +1,31 @@
+{
+  "performance_report": {
+    "title": "Q4 2025 Global Performance Report",
+    "content": "Revenue grew by 12% YoY reaching $15.4B. Operating margin improved to 24%. However, supply chain disruptions in Southeast Asia led to a 5% increase in logistics costs. Cloud services saw a 30% surge in adoption, while hardware sales remained flat. Key risks include fluctuating exchange rates and semiconductor shortages."
+  },
+  "hr_policy": {
+    "title": "Remote Work Policy v2.1",
+    "content": "Employees are allowed to work from home. Equipment will be provided upon request. Performance will be measured by output. Managers must approve all schedules. All employees must be online during core hours."
+  },
+  "meeting_transcript": {
+    "metadata": "Project Phoenix Sync - Feb 2026",
+    "transcript": "Sarah: We need to finalize the UI by Friday. John: I can handle the API integration, but I need the docs by Wednesday. Mike: I'll send the docs to John tomorrow morning. Sarah: Great, let's aim for a client demo next Monday."
+  },
+  "market_news": [
+    {
+      "source": "TechDaily",
+      "text": "NVIDIA stock reaches record highs as AI demand intensifies."
+    },
+    {
+      "source": "GlobalFinance",
+      "text": "Central banks hint at interest rate cuts by mid-2026."
+    }
+  ],
+  "project_status": {
+    "name": "Alpha-Core",
+    "client": "TechCorp",
+    "progress": "75% complete",
+    "milestones": ["Database migrated", "Auth system live"],
+    "next_steps": "UAT Testing"
+  }
+}
